@@ -16,3 +16,21 @@ D, [2013-02-22T15:02:06.996153 #4698] DEBUG -- : REQUESTING PAGE: GET / with {} 
 D, [2013-02-22T15:12:18.269806 #4846] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
 D, [2013-02-22T15:12:52.749283 #4850] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
 D, [2013-02-22T15:20:46.538650 #4901] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-02-22T16:14:07.181398 #5529] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-02-22T16:15:31.492390 #5566] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-02-22T16:24:38.994007 #5594] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-02-22T16:32:59.066354 #5614] DEBUG -- : REQUESTING PAGE: GET /iniciar with {} and HTTP headers {}
+D, [2013-02-22T16:32:59.073161 #5614] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-02-22T16:41:21.530634 #5622] DEBUG -- : REQUESTING PAGE: GET /iniciar with {} and HTTP headers {}
+D, [2013-02-22T16:41:21.546251 #5622] DEBUG -- : REQUESTING PAGE: GET /buscarPalabra with {"letraInicialY"=>"0", "letraInicialX"=>"0", "letraFinalY"=>"0", "letraFinalX"=>"0"} and HTTP headers {"HTTP_REFERER"=>"/iniciar"}
+D, [2013-02-22T16:41:21.549128 #5622] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-02-22T16:51:54.760042 #5629] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-02-22T16:52:15.926612 #5635] DEBUG -- : REQUESTING PAGE: GET /iniciar with {} and HTTP headers {}
+D, [2013-02-22T16:52:15.942976 #5635] DEBUG -- : REQUESTING PAGE: GET /buscarPalabra with {"letraFinalY"=>"0", "letraFinalX"=>"0", "letraInicialY"=>"0", "letraInicialX"=>"0"} and HTTP headers {"HTTP_REFERER"=>"/iniciar"}
+D, [2013-02-22T16:52:15.946237 #5635] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-02-22T16:53:34.869175 #5638] DEBUG -- : REQUESTING PAGE: GET /iniciar with {} and HTTP headers {}
+D, [2013-02-22T16:53:34.885397 #5638] DEBUG -- : REQUESTING PAGE: GET /buscarPalabra with {"letraFinalY"=>"0", "letraFinalX"=>"0", "letraInicialY"=>"0", "letraInicialX"=>"0"} and HTTP headers {"HTTP_REFERER"=>"/iniciar"}
+D, [2013-02-22T16:53:34.889295 #5638] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
+D, [2013-02-22T17:15:05.405521 #5652] DEBUG -- : REQUESTING PAGE: GET /iniciar with {} and HTTP headers {}
+D, [2013-02-22T17:15:05.422409 #5652] DEBUG -- : REQUESTING PAGE: GET /buscarPalabra with {"letraInicialY"=>"0", "letraInicialX"=>"0", "letraFinalY"=>"0", "letraFinalX"=>"0"} and HTTP headers {"HTTP_REFERER"=>"/iniciar"}
+D, [2013-02-22T17:15:05.424911 #5652] DEBUG -- : REQUESTING PAGE: GET / with {} and HTTP headers {}
