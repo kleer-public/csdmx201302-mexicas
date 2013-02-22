@@ -19,6 +19,6 @@ When /^I fill in the fields$/ do
 end
 
 Then /^I should see four numbers between (\d+) and (\d+) each of them$/ do |arg1, arg2|
-  #last_response.body.should =~ /Proporcione un numero entre 1 y 10/m
+  last_response.body.should =~ /Proporcione un numero entre 1 y 10/m
 
 end
